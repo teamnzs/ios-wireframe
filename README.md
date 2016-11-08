@@ -55,6 +55,13 @@ The following **optional** features can be implemented:
    - [ ] User can invite people who is near by you by using location data
    - [ ] User can chat with friends
 
+## Wireframe Diagram
+
+Here's a diagram of the wireframe:
+
+<img src='https://raw.githubusercontent.com/teamnzs/ios-wireframe/master/teamnzs-wireframe.gif' title='Video Walkthrough' width='' alt='Wireframe Diagram' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## License
 
