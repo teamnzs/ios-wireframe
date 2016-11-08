@@ -1,5 +1,11 @@
 # Trivia Game
 
+This application is to demonstrate our team's ability to incorporate the concepts that have been learned from the Codepath iOS development course.
+
+The basic game is a trivia game with a unique twist.  Game players are given a series of questions. On each question, the players are asked to provide an answer that they would like to give to all other users as an option to select as the right answer.  Once all player answer options are received, a series of multiple choice questions is then given to all users that has the players' provided answers along with the correct answer.  The objective of the user provided answers is to provide seemingly correct answers to fool the other players.
+
+We will require authentication via a third party account.  Users have the ability to play with friends.  A profile of the user is also created. A global ranking is maintained.
+
 ## User Stories
 
 - [ ] Intro
