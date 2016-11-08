@@ -23,7 +23,7 @@
    - [ ] Creat a room
       - [ ] Same as "Friends page", user can see their friends list and select a list of friends (up to 5 people)
       - [ ] User can create a room by selecting the category, selecting number of questions, and selecting public/private mode, or can exit the view
-      - [ ] User can click on "Ready" button when they are ready for the game
+      - [ ] User can see the number of people who have joined, and can click on "Join" or "Cancel" button
    - [ ] See friends list
       - [ ] User can see their friends list loaded from Facebook Graph api
       - [ ] User can search friends
