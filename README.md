@@ -21,7 +21,7 @@
 - [ ] Game room page
    - [ ] Creat a room
       - [ ] Same as "Friends page", user can see their friends list and select a list of friends (up to 5 people)
-      - [ ] User can create a room by selecting the category and number of questions, or can exit the view
+      - [ ] User can create a room by selecting the category, selecting number of questions, and selecting public/private mode, or can exit the view
       - [ ] User can click on "Ready" button when they are ready for the game
    - [ ] Playing game
       - [ ] User can see the Trivia question and count down timer
@@ -32,9 +32,9 @@
       - [ ] User can see the Travia question and count down timer for existing game
       - [ ] Submit button should be gray out until the next round is available
 - [ ] Final Score page
-   - [ ] 
+   - [ ] User should be able to see the ranking and winner
 
-The following **optional** features are implemented:
+The following **optional** features can be implemented:
 
 - [ ] Intro
    - [ ] User can signup or login via Twitter
