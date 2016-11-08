@@ -5,7 +5,7 @@
 - [ ] Intro
    - [ ] User should be able to login or sign up via Facebook
    - [ ] Get user permission for access Facebook data
-   - [ ] 
+   - [ ] App should be able to persist user session
 - [ ] Main page
    - [ ] It has tab layout on the bottom - Discover, Friends, Profile
    - [ ] By tapping on each tab, user should be able to change the main content view
@@ -42,6 +42,7 @@ The following **optional** features can be implemented:
    - [ ] User can take picture with camera
 - [ ] Friends page
    - [ ] User can invite people who is near by you by using location data
+   - [ ] User can chat with friends
 
 
 ## License
