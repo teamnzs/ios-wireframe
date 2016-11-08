@@ -17,6 +17,7 @@
    - [ ] User can go back, save information, or log out
 - [ ] Friends page
    - [ ] User can see their friends list loaded from Facebook Graph api
+   - [ ] User can search friends
    - [ ] Should be able to select a list of friends (up to 5 people) and create a game room
 - [ ] Game room page
    - [ ] Creat a room
