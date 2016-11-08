@@ -9,21 +9,25 @@
 - [ ] Main page
    - [ ] It has tab layout on the bottom - Discover, Friends, Profile
    - [ ] By tapping on each tab, user should be able to change the main content view
-- [ ] Discover page
+- [ ] Discover tab
    - [ ] User can create a game room
    - [ ] User can see the list of existing games and should be able to join the room by clicking on one of the rooms
-- [ ] Profile page
+- [ ] Profile tab
    - [ ] User can see their basic information, i.e. profile picture, name, game score, etc
    - [ ] User can go back, save information, or log out
-- [ ] Friends page
-   - [ ] User can see their friends list loaded from Facebook Graph api
-   - [ ] User can search friends
-   - [ ] Should be able to select a list of friends (up to 5 people) and create a game room
+- [ ] Create game tab
+   - [ ] User can create a game as "Game room"
+- [ ] Ranking tab
+   - [ ] User can see the global ranking
 - [ ] Game room page
    - [ ] Creat a room
       - [ ] Same as "Friends page", user can see their friends list and select a list of friends (up to 5 people)
       - [ ] User can create a room by selecting the category, selecting number of questions, and selecting public/private mode, or can exit the view
       - [ ] User can click on "Ready" button when they are ready for the game
+   - [ ] See friends list
+      - [ ] User can see their friends list loaded from Facebook Graph api
+      - [ ] User can search friends
+      - [ ] Should be able to select a list of friends (up to 5 people) and create a game room
    - [ ] Playing game
       - [ ] User can see the Trivia question and count down timer
       - [ ] Should be able to exit or select answer. The answer list comes from server
